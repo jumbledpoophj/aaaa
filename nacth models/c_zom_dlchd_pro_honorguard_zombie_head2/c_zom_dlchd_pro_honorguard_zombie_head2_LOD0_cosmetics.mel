@@ -1,0 +1,11 @@
+select -add j_brow_a01_le;
+select -add j_brow_a01_ri;
+select -add j_brow_a03_le;
+select -add j_brow_a03_ri;
+select -add j_brow_a05_le;
+select -add j_brow_a05_ri;
+select -add j_brow_a07_le;
+select -add j_brow_a07_ri;
+select -add j_cheek_a05_le;
+select -add j_cheek_a05_ri;
+select -add j_chin_jaw;
